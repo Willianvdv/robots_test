@@ -1,0 +1,4 @@
+Disallow: disallow/a.html
+Disallow: disallow/*
+Disallow: /*/disallow/
+
