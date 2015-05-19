@@ -1,4 +1,6 @@
-Disallow: disallow/a.html
-Disallow: disallow/*
+User-agent: *
+
+Disallow: /disallow/a.html
+Disallow: /disallow/*
 Disallow: /*/disallow/
 
